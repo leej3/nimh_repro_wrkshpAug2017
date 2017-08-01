@@ -16,7 +16,7 @@
  'jan****ada@nih.gov', Jan Varada, varadajc, jvarada, 10116
  'jen****ans@nih.gov', Jen Evans, evansjw, jwe080, 10117
  'jia****al2@mail.nih.gov',
- 'joh****lee@nih.gov', John Lee, rodgersleejg, johnleenimh, 10119
+ 'joh****lee@nih.gov', John Lee, rodgersleejg, johnleenimh, 10119, giraffe
  'kim****hsr@nih.gov',
  'lip****hou@nih.gov', Liping Hou, houl3, hou, 10121
  'mar****art@nih.gov', 
